@@ -91,9 +91,8 @@ To run this code, you will need a JetBot with a camera and a working installatio
 
 The JetBot is an open-source AI robot platform based on the NVIDIA Jetson Nano that is designed to be easy to build, assemble, and use. Here are the steps to build and set up a JetBot:
 
-1.Obtain the necessary hardware components: You will need a Jetson Nano Developer Kit which comes with a camera, motors, wheels, battery, and other necessary components 
-
-2.Follow the steps on https://jetbot.org/master/index.html to setup the appropriate OS on your Jetbot
+1. Obtain the necessary hardware components: You will need a Jetson Nano Developer Kit which comes with a camera, motors, wheels, battery, and other necessary components 
+2. Follow the steps on https://jetbot.org/master/index.html to setup the appropriate OS on your Jetbot
 
 ### Installation
 
@@ -105,7 +104,7 @@ Clone the repo onto your jetbot
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-To use this code, simply clone the repository onto your JetBot and run the road_following.ipynb notebook. This will start the camera stream and begin processing images to follow the black lines.
+To use this code, simply clone the repository onto your JetBot and run the 'escape-2.ipynb' notebook. This will start the camera stream and begin processing images to follow the black lines.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
