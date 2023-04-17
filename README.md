@@ -166,7 +166,7 @@ Project Link: [https://github.com/BaraaAlJorf/Jetbot_Linefollowing](https://gith
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-url]: https://github.com/BaraaAlJorf/Jetbot_Linefollowing/graphs/contributors
-[contributers-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
 [forks-shield]: https://img.shields.io/github/forks/BaraaaALJorf/Jetbot_Linefollowing.svg?style=for-the-badge
 [forks-url]: https://github.com/BaraaAlJorf/Jetbot_Linefollowing//network/members
 
