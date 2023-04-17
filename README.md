@@ -101,7 +101,7 @@ The JetBot is an open-source AI robot platform based on the NVIDIA Jetson Nano t
 
 Clone the repo onto your jetbot
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/BaraaAlJorf/Jetbot_Linefollowing.git
    ```
 
 <!-- USAGE EXAMPLES -->
@@ -136,7 +136,7 @@ If the black line is not detected for a certain number of frames, the car will s
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions or suggestions you make are **greatly appreciated**.
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 Don't forget to give the project a star! Thanks again!
@@ -154,7 +154,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-Baraa Al Jorf - baj321@nyu.edu
+Baraa Al Jorf - baj321@nyu.edu, Manuel Padilla -map971@nyu.edu
 
 Project Link: [https://github.com/BaraaAlJorf/Jetbot_Linefollowing](https://github.com/BaraaAlJorf/Jetbot_Linefollowing)
 
@@ -164,16 +164,12 @@ Project Link: [https://github.com/BaraaAlJorf/Jetbot_Linefollowing](https://gith
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
+[contributors-url]: https://github.com/BaraaAlJorf/Jetbot_Linefollowing/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/BaraaaALJorf/Jetbot_Linefollowing.svg?style=for-the-badge
+[forks-url]: https://github.com/BaraaAlJorf/Jetbot_Linefollowing//network/members
+
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[linkedin-url]: https://www.linkedin.com/in/baraaaljorf/
+
 [Jupyter.com]: https://jupyter.org/assets/homepage/main-logo.svg
 [Jupyter-url]: https://jupyter.org/
