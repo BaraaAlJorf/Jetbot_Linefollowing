@@ -25,7 +25,7 @@
 <h3 align="center">Line Following Robot</h3>
 
   <p align="center">
-    Line Following Robot
+    Line Following Robot implementation on Jetbot
     <br />
     <a href="https://github.com/BaraaAlJorf/Jetbot_Linefollowing"><strong>Explore the docs »</strong></a>
     <br />
