@@ -58,11 +58,8 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -71,7 +68,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This repository contains code for a road-following car built using the JetBot platform. The JetBot is a small, AI-enabled robot that is designed to teach machine learning concepts and robotics principles. This car uses image processing to detect black lines and green boxes to follow a track. The green boxes indicate U-turns and other turns. More detail about the task tackled can be found <a href="#readme-top">here</a>
+This repository contains code for a road-following car built using the JetBot platform. The JetBot is a small, AI-enabled robot that is designed to teach machine learning concepts and robotics principles. This car uses image processing to detect black lines and green boxes to follow a track. The green boxes indicate U-turns and other turns. More detail about the task tackled can be found <a href="https://github.com/BaraaAlJorf/Jetbot_Linefollowing/tree/main/Detailed_Report">here</a>
 
 ### Built With
 
